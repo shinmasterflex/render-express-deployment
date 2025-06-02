@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^22.16.0"
+    "express": "22.16.0"
   }
 
 }
